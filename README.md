@@ -1,10 +1,10 @@
-# Projeto Power BI - PetShopGatito
+# Projeto Power BI - Amicão Pet Shop
 
 ## Descrição
 
-Este projeto, intitulado **PetShopGatito**, foi desenvolvido no curso **Alura - 1º Dashboard no Power BI**. O dashboard serve para visualizar o faturamento total e possui diversas funcionalidades, incluindo:
+Este projeto, intitulado **Amicão Pet Shop**, foi desenvolvido com base no curso **Alura - Power BI Desktop: construindo meu primeiro dashboard**. O dashboard serve para visualizar o faturamento total e possui diversas funcionalidades, incluindo:
 
-- **Filtro para data da compra**: possibilita analisar o faturamento em períodos específicos.
+- **Filtro para data de venda**: possibilita analisar o faturamento em períodos específicos.
 - **Filtro para selecionar a marca do produto vendido**: permite filtrar os dados com base na marca.
 - **Gráfico de pizza**: exibe o faturamento por gênero dos clientes (masculino e feminino).
 - **Gráfico de barras clusterizado**: apresenta o faturamento por bairro.
@@ -30,9 +30,9 @@ Abaixo está uma lista dos produtos analisados, que podem ser utilizados para fa
 
 ## Dashboard
 
-![Dashboard Power BI](Dashboard.PNG)
+![Dashboard Power BI](Dashboard1.PNG)
 
-Você pode acessar o dashboard diretamente através do seguinte link: [Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTFmZGM2MGQtMDc3OC00ZWJlLTljNWEtZDZkYzhhMGYyNDcyIiwidCI6ImZiOTJjMGEzLWZjNjMtNDhhOC1iNjhhLTBkODE3OWZlNTc3YSJ9)
+Você pode acessar o dashboard diretamente através do seguinte link: [Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmEwNjAyMDAtZDA5OC00NjBhLWFlMDctMmViNGQ1ZGNmNGU5IiwidCI6ImZiOTJjMGEzLWZjNjMtNDhhOC1iNjhhLTBkODE3OWZlNTc3YSJ9)
 
 ## Como Contribuir
 
