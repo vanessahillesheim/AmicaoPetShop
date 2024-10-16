@@ -30,7 +30,7 @@ Abaixo está uma lista dos produtos analisados, que podem ser utilizados para fa
 
 ## Dashboard
 
-![Dashboard Power BI](Dashboard.png)
+![Dashboard Power BI](Dashboard.PNG)
 
 Você pode acessar o dashboard diretamente através do seguinte link: [Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTFmZGM2MGQtMDc3OC00ZWJlLTljNWEtZDZkYzhhMGYyNDcyIiwidCI6ImZiOTJjMGEzLWZjNjMtNDhhOC1iNjhhLTBkODE3OWZlNTc3YSJ9)
 
